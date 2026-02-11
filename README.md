@@ -59,3 +59,6 @@ This project analyzes hospital patient data from 130 US hospitals to provide ins
    - Python (Pandas, NumPy, Matplotlib, Seaborn) – EDA & data cleaning
    - Excel – basic charts and quick summaries
    - Power BI – interactive dashboard creation, drill-through pages, KPIs, and heatmaps
+
+# Dashboard
+![Diabetes.png](Diabetes.png)
