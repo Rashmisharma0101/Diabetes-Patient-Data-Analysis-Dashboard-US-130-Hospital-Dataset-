@@ -18,7 +18,7 @@ This project analyzes hospital patient data from 130 US hospitals to provide ins
    - Filled missing medical_specialty with Unknown.
 
  # Phase 2: Exploratory Data Analysis (EDA)
-   - Performed EDA in Python and Excel to uncover insights:
+   - Performed EDA in Python to uncover insights:
    - Distribution of diagnoses (diag_1, diag_2, diag_3)
    - Readmission trends by age, gender, and diagnosis
    - Hospital stay patterns (time_in_hospital)
