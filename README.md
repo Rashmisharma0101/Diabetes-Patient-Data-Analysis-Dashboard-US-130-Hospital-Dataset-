@@ -16,7 +16,6 @@ This project analyzes hospital patient data from 130 US hospitals to provide ins
    - Handled missing values:
    - Replaced None in lab test columns (max_glu_serum, A1Cresult) with “Not Tested”.
    - Filled missing medical_specialty with Unknown.
-   - Unpivoted medication columns to create a Medication table for interactive analysis in Power BI.
 
  # Phase 2: Exploratory Data Analysis (EDA)
    - Performed EDA in Python and Excel to uncover insights:
